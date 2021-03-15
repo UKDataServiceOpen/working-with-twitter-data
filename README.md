@@ -10,4 +10,4 @@ You will need to install Pandas and Tweepy.
 
 ## Binder link
 Click here to open an editable version of the demo, this may take some time.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/working-with-twitter-data)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/working-with-twitter-data/HEAD?filepath=%2FTwitterDemo.ipynb)
