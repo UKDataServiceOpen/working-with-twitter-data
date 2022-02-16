@@ -1,4 +1,0 @@
-numpy>=3.4.3
-seaborn>=0.11.2
-nltk>=3.6.5
-wordcloud>=1.8.1
