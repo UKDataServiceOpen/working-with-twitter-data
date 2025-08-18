@@ -8,6 +8,9 @@ This notebook briefly outlines how to:
 - Read in information about a user
 - Search for a keyword
 
+## Recordings
+Working with Reddit Data [Video](https://www.youtube.com/live/uvmTeV26UEg)
+
 ## Reddit Data
 
 You will need to install PRAW.
